@@ -26,7 +26,7 @@ I am Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Snenhlanhla-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Snenhlanhla-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sinenhlanhla-nsele-377116270)
 
  ### :hammer_and_wrench: Languages and Tools : 
  <div>
