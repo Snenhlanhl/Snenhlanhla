@@ -27,3 +27,23 @@ I am Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Snenhlanhla-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+ ### :hammer_and_wrench: Languages and Tools : 
+ <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="boostrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://brandmaster.ae/wp-content/uploads/2021/10/wraper_api-remove.png" title="API"  alt="API" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+   <img src="https://th.bing.com/th/id/OIP.U4ETn9-7tFiKN5XqGl8CpAHaHo?w=204&h=210&c=7&r=0&o=5&pid=1.7" title="Hosting" alt=hosting" width="40" height="40" />&nbsp;
+</div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Snenhlanhl&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snenhlanhl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
