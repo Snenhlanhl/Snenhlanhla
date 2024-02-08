@@ -37,8 +37,8 @@ I am Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="boostrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://brandmaster.ae/wp-content/uploads/2021/10/wraper_api-remove.png" title="API"  alt="API" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
+  <img src="https://th.bing.com/th/id/OIP.Lzt6o2bxSVYxxSDRDlQoLwHaFK?w=172&h=180&c=7&r=0&o=5&pid=1.7" title="Github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="50"/>
    <img src="https://th.bing.com/th/id/OIP.U4ETn9-7tFiKN5XqGl8CpAHaHo?w=204&h=210&c=7&r=0&o=5&pid=1.7" title="Hosting" alt=hosting" width="40" height="40" />&nbsp;
 </div>
 
